@@ -1,0 +1,6 @@
+--- alert_log.txt (原始)
+
+
++++ alert_log.txt (修改后)
+[System Initialization] Alert log file created for Experiment 1.
+[2026-05-30 14:39:49] ALERT: TestCity - Level: Red, Rainfall: 25.50 mm/h
