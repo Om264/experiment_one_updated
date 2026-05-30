@@ -15,7 +15,7 @@ import random
 
 # Configuration
 DEFAULT_CITIES = ['Beijing', 'Shanghai', 'Guangzhou', 'Shenzhen', 'London', 'New York']
-API_KEY_PLACEHOLDER = "YOUR_OPENWEATHERMAP_API_KEY"  # Replace with your actual key or set via env var
+API_KEY_PLACEHOLDER = "7cc3ed203b8a45fe7ddcea9d5f2c3a82"  # Replace with your actual key or set via env var
 LOG_FILE = "alert_log.txt"
 
 # Rainfall Thresholds (mm/h) as per experiment requirements
